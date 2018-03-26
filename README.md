@@ -10,3 +10,5 @@ independent variable: whether the literal meaning of the word list is congruent 
 dependent variable: measured time of different people's reaction
 
 ## 2 An appropriate set of hypotheses for this task
+### Hypothesis
+1. H0
